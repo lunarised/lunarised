@@ -1,4 +1,34 @@
-### Hi there 👋
+## Howdy!
+
+I am a software developer and ops enthusiast
+
+
+### I frequently program in
+- Java
+- Python
+- C++
+
+### I'm also spending some time learning languages such as
+- Rust
+- C
+- Typescript
+- Objective C
+- 6502
+
+### I also have a variety of other tech experience, including but not limited to
+- Embeded Systems
+- Systems Administration with Linux
+- CI/CD
+
+
+### You can contact me either on
+- Twitter: [@lunarised](https://twitter.com/lunarised)
+- Discord: lunarised#5264
+- Email: lunarised(at)outlook.com
+
+
+
+
 
 <!--
 **lunarised/lunarised** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
