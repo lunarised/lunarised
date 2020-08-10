@@ -28,7 +28,7 @@ I am a software developer and ops enthusiast
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunarised&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunarised&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Cheers for reading
 
