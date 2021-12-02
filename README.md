@@ -35,7 +35,7 @@ My Main Project at the moment, Is going through SICP in scheme. Its alot of fun
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarised&layout=compact&hide=TeX)
 ### Cheers for reading
-[![C/C++ CI](https://github.com/lunarised/AdventOfCode2021/actions/workflows/c-cpp.yml/badge.svg?branch=master)](https://github.com/lunarised/AdventOfCode2021/actions/workflows/c-cpp.yml)
+[![Advent of Code](https://github.com/lunarised/AdventOfCode2021/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/lunarised/AdventOfCode2021/actions/workflows/c-cpp.yml)
 <!--
 **lunarised/lunarised** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
