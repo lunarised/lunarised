@@ -8,13 +8,13 @@ I am a software developer and ops enthusiast
 - Python
 - C++
 - Typescript
+- C
 
 ### My Main Project
 My Main Project at the moment, Is going through SICP in scheme. Its alot of fun
 
 ### I also learn a few other languages such as
 - Rust
-- C
 - Objective C
 - 6502
 
