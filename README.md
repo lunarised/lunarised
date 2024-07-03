@@ -1,32 +1,34 @@
 <h1 style="color: #ffffff; background-color: #111111;">Howdy!</h1>
 
-I am a software developer and ops enthusiast
+I am a software engineer and ops enthusiast
 
 
 ### I frequently program in
+- Typescript☺
 - Java
 - Python
 - C++
-- Typescript
 - C
-
-### My Main Project
-My Main Project at the moment, Is going through SICP in scheme. Its alot of fun
 
 ### I also learn a few other languages such as
 - Rust
 - Objective C
 - 6502
 
+
+###I am currently learning
+
+Rust from The Rust Programming Language
+
 ### I also have a variety of other tech experience, including but not limited to
-- Embeded Systems
 - Systems Administration with Linux
 - CI/CD
+- Embeded Systems
 
 
 ### You can contact me either on
 - Twitter: [@lunarised](https://twitter.com/lunarised)
-- Discord: lunarised#5264
+- Discord: lunarised
 - Email: lunarised(at)outlook.com
 
 
