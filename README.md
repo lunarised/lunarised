@@ -4,7 +4,7 @@ I am a software engineer and ops enthusiast
 
 
 ### I frequently program in
-- Typescript☺
+- Typescript
 - Java
 - Python
 - C++
@@ -16,7 +16,7 @@ I am a software engineer and ops enthusiast
 - 6502
 
 
-###I am currently learning
+### I am currently learning
 
 Rust from The Rust Programming Language
 
