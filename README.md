@@ -13,7 +13,6 @@ I am a software engineer and ops enthusiast
 ### I also learn a few other languages such as
 - Rust
 - Objective C
-- 6502
 
 
 ### I am currently learning
