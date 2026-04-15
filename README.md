@@ -31,10 +31,6 @@ Rust from The Rust Programming Language
 - Email: lunarised(at)outlook.com
 
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=lunarised&show_icons=true&theme=synthwave)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarised&layout=compact&hide=TeX)
 ### Cheers for reading
 [![Advent of Code](https://github.com/lunarised/AdventOfCode2021/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/lunarised/AdventOfCode2021/actions/workflows/c-cpp.yml)
 <!--
